@@ -12,7 +12,7 @@ function App() {
           duo
         </span>
         está aqui.
-      </h1>
+      </h1> 
 
       <div className="grid grid-cols-6 gap-6 mt-16">
         <a href="" className="relative rounded-lg overflow-hidden">
